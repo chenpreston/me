@@ -168,14 +168,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55091ac9ad564026",
+  "active": "b31bc54368589bb7",
   "lastOpenFiles": [
+    "_posts/2025-02-26.md",
+    "about.md",
+    "_posts/2025-02-25-hello.md",
     "About.md",
     "404.html",
     "contact.md",
     "contact.me",
-    "projects.md",
-    "about.md",
-    "_posts/2025-02-25-hello.md"
+    "projects.md"
   ]
 }
