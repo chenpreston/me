@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About.md",
+                "file": "_posts/2025-02-25-hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "2025-02-25-hello"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "About 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "About 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -168,8 +166,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55091ac9ad564026",
+  "active": "b31bc54368589bb7",
   "lastOpenFiles": [
+    "contact.md",
+    "contact.me",
+    "projects.md",
+    "about.md",
     "_posts/2025-02-25-hello.md",
     "About.md"
   ]
