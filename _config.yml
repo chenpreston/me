@@ -1,2 +1,16 @@
-title: me
+title: Preston Chen
+description: "Preston Chen's personal website"
+url: "https://chenpreston.github.io/me"
+
 theme: minima
+
+minima:
+  skin: dark
+
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
+author:
+  name: Preston Chen
+  email: "chen.preston@gmail.com"
